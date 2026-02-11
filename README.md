@@ -1,18 +1,26 @@
-# Hi👋 I am Jamaalullah
+<!-- level 1 : intro and about me -->
+# Hi I am Jamaalullah!
 
-### I am a third year mechanical engineering student, and this is my portfolio and project showcase.
-<!--
-**Jamaal786/Jamaal786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a third year mechanical engineering at the University of Auckand. This is a portfolio that which showcases the projects I have completed. I have a keen interest in mechanical design, analysis and manufacturing processes.
 
-Here are some ideas to get you started:
+## Technical skills 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+CAD: Autodesk Inventor <br>
+Programming: C, MATLAB <br>
+Manufacturing: 3D printing, CNC machining, Welding <br>
+<!-- Analysis:  <br> -->
 
+## Featured Projects
+
+### VEX robot tasks (School project)
+
+### Design and aalysis of gearbox (School project)
+
+### Dynamic analysis of vibration system in a washing machine (School project)
+
+### Robotic helper arm (Personal Project)
+
+
+## Interests
+
+## Contact
