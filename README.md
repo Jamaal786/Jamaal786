@@ -17,22 +17,22 @@ Analysis: SIMULINK, Mechanical force calculations based on mechanics of solids, 
 - Calculate forces and types of stabilishing methods.
 - [View Robotic helper arm repository](https://github.com/Jamaal786/Robotic-Helper-Arm)
 
-### 🤖 VEX robot tasks (University project)
+### 🤖 VEX robot tasks (2nd year University project)
 - Worked in pairs with VEX robots to complete required tasks.
 - My role: working with C, programmed VEX robot to lift arm up and down with PI control, follow a line, and draw up flowcharts of our working code.
 - [View VEX robot repository](https://github.com/Jamaal786/VEX-robot-tasks)
 
-### ⚙️ Design and analysis of gearbox (University project)
+### ⚙️ Design and analysis of gearbox (2nd year University project)
 - Worked in a trio to design a gear reducer.
 - My role: Checked calculated gear ratios and torque transmissions. Calculated and selected materials for clutch and brake. 3D modelled the housing of gear box.
 - [View Gearbox repository](https://github.com/Jamaal786/Design-and-analysis-of-gearbox)
   
-### 🔬 Dynamic analysis of vibration system (University project)
+### 🔬 Dynamic analysis of vibration system (2nd year University project)
 - Analysed vibrational systems of spring-damper systems using fundamental dynamics concepts. 
 - Utilised simulink for analysis.
 - [View Dynamic analysis repository](https://github.com/Jamaal786/Dynamic-analysis-of-vibration-system)
 
-### 🪛 Robot manufacture and troubleshoot (University Project)
+### 🪛 Robot manufacture and troubleshoot (2nd year University Project)
 - Worked in groups of 4 to design and manufacture a robot to complete certain tasks.
 - My role: Aided in 3D modelling, laser cutting and soldering of components. 
 - [View Robot manufacturing repository](https://github.com/Jamaal786/Robot-manufacture-and-troubleshoot)
