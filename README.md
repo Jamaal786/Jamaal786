@@ -12,10 +12,10 @@ Analysis: SIMULINK, Mechanical force calculations based on mechanics of solids, 
 
 ## Featured Projects
 
-### 🦾 Robotic helper arm (Personal Project)
+<!--- ### 🦾 Robotic helper arm (Personal Project)
 - Designed a 3D model of a mechanical robotic arm.
 - Calculate forces and types of stabilishing methods.
-- [View Robotic helper arm repository](https://github.com/Jamaal786/Robotic-Helper-Arm)
+- [View Robotic helper arm repository](https://github.com/Jamaal786/Robotic-Helper-Arm) -->
 
 ### 🤖 VEX robot tasks (2nd year University project)
 - Worked in pairs with VEX robots to complete required tasks.
