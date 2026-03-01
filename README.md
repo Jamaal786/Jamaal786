@@ -3,19 +3,19 @@
 
 I am a third year mechanical engineering at the University of Auckand. This is a portfolio that which showcases the projects I have completed. I have a keen interest in mechanical design, analysis and manufacturing processes.
 
-## Contact
+<!--[![Static Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/muhammad-jamaalullah-bin-abdul-rahman-16a4092b7)
 
-[![Static Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](www.linkedin.com/in/muhammad-jamaalullah-bin-abdul-rahman-16a4092b7)
+[![Static Badge](https://img.shields.io/badge/Resume-violet?style=for-the-badge)](https://github.com/JamaalullahAR/Professional-Certificates/blob/main/Jamaalullah_Resume_3rd_year.pdf)
+-->
 
-LinkedIN : www.linkedin.com/in/muhammad-jamaalullah-bin-abdul-rahman-16a4092b7 <br>
-Resume : [View Resume](https://github.com/JamaalullahAR/Professional-Certificates/blob/main/Jamaalullah_Resume_3rd_year.pdf) <br>
-
-
-
-
-
-
-
+<p align="left">
+  <a href="https://www.linkedin.com/in/muhammad-jamaalullah-bin-abdul-rahman-16a4092b7">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge">
+  </a>
+  <a href="https://github.com/JamaalullahAR/Professional-Certificates/blob/main/Jamaalullah_Resume_3rd_year.pdf">
+    <img src="https://img.shields.io/badge/Resume-violet?style=for-the-badge">
+  </a>
+</p>
 
 ## Technical skills 
 
@@ -67,10 +67,10 @@ Analysis: SIMULINK, Mechanical force calculations based on mechanics of solids, 
 - Automotive systems
 - Product design and development
 
-## Certficications
+## Certfications
 - [MATLAB onramp certificate](https://github.com/Jamaal786/Professional-Certificates/blob/main/matlab%20onramp%20cert.pdf)
 - [SIMULINK onramp certificate](https://github.com/Jamaal786/Professional-Certificates/blob/main/simulink%20onramp%20cert.pdf)
-- [](#)
+
 
 
 
