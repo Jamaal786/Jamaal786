@@ -13,7 +13,7 @@ I am a third year mechanical engineering at the University of Auckand. This is a
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge">
   </a>
   <a href="https://github.com/JamaalullahAR/Professional-Certificates/blob/main/Jamaalullah_Resume_3rd_year.pdf">
-    <img src="https://img.shields.io/badge/Resume-violet?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Resume-orange?style=for-the-badge">
   </a>
 </p>
 
