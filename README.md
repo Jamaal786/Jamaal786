@@ -15,6 +15,10 @@ I am a third year mechanical engineering at the University of Auckand. This is a
   <a href="https://github.com/JamaalullahAR/Professional-Certificates/blob/main/Jamaalullah_Resume_3rd_year.pdf">
     <img src="https://img.shields.io/badge/Resume-orange?style=for-the-badge">
   </a>
+  <a href="mailto:jamaalullah22@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-yellow?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+    
 </p>
 
 ## Technical skills 
